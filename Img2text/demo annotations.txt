@@ -1,0 +1,5 @@
+﻿cropped_dir/0.jpg	जल	Hindi/hind_collected_camera/IMG_20181227_084709.jpg	[634, 1167, 1177, 661, 1139, 1129, 1402, 1415]
+cropped_dir/1.jpg	शोध	Hindi/hind_collected_camera/IMG_20181227_084709.jpg	[1202, 1734, 1730, 1201, 1059, 1050, 1433, 1458]
+cropped_dir/2.jpg	न	Hindi/hind_collected_camera/IMG_20181227_084709.jpg	[1864, 2071, 2071, 1871, 1182, 1172, 1372, 1375]
+cropped_dir/3.jpg	संयंत्र	Hindi/hind_collected_camera/IMG_20181227_084709.jpg	[2124, 2734, 2741, 2124, 1122, 1092, 1392, 1392]
+cropped_dir/4.jpg
