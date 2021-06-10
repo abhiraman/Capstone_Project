@@ -161,7 +161,7 @@ def _trim_images(img_dir,annot_dir,cropped_imgs_dir,dumpFolder,counter):
 def _trim_validation_images(img_dir,boxFile,cropped_imgs_dir):
   all_images = _get_allFiles_inDirectory(img_dir)
   with open(boxFile,'r') as fh:
-    infoDict = fh.load(fh)
+    infoDict = json.load(fh)
   
   for e_image,posList in infoDict.items():
       px = posList[0:4]
