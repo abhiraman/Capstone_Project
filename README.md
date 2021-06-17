@@ -21,20 +21,20 @@ References : https://github.com/GitYCC/crnn-pytorch
 http://arxiv.org/abs/1507.05717 ---> Model very similar to this paper is implemented
 
 ![image](https://user-images.githubusercontent.com/38239676/122358584-65701e00-cf72-11eb-85c4-0f092282a78f.png)
-
 ***************Predicted Hindi Word ---->पाँचसौ***************
+
 ![image](https://user-images.githubusercontent.com/38239676/122358630-7325a380-cf72-11eb-86e0-d82751b16589.png)
-
 ***************Predicted Hindi Word ---->अरे***************
+
 ![image](https://user-images.githubusercontent.com/38239676/122358664-7b7dde80-cf72-11eb-8991-1809302814fa.png)
-
 ***************Predicted Hindi Word ---->सम्भा***************
+
 ![image](https://user-images.githubusercontent.com/38239676/122358733-89336400-cf72-11eb-971a-e42acfb49413.png)
-
 ***************Predicted Hindi Word ---->परिसर***************
-![image](https://user-images.githubusercontent.com/38239676/122358751-8fc1db80-cf72-11eb-973f-4ec8bba358d8.png)
 
+![image](https://user-images.githubusercontent.com/38239676/122358751-8fc1db80-cf72-11eb-973f-4ec8bba358d8.png)
 ***************Predicted Hindi Word ---->रुपये***************
+
 
 Task 3 : M/C Transliteration with Attention model ----> Convert Hindi word To English word
 https://github.com/abhiraman/Capstone_Project/blob/main/Transliteration%20Model/M_C_Transliteration.ipynb
