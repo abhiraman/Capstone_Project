@@ -42,9 +42,13 @@ References : GUVI deep learning course lecture videos
 https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
 
 पाँचसौ   Transliterated to ---->     PANCCAU
+
 अरे   Transliterated to ---->     ARE
+
 सम्भा   Transliterated to ---->     SAMBHA
+
 परिसर   Transliterated to ---->     PARISER
+
 रुपये   Transliterated to ---->     RUPAYE
 
 
